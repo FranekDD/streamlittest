@@ -8,6 +8,6 @@ serverAddress = "franekdd-streamlittest-streamlit-app-6b1hv5.streamlit.app"
 [theme]
 primaryColor = "#E694FF"
 backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#0083B8"
+secondaryBackgroundColor = "#002651"
 textColor = "#DCDCDC"
 font = "sans-serif"
