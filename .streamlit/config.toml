@@ -1,5 +1,6 @@
 [server]
 enableCORS = false
+enableWebsocketCompression = false
 
 [browser]
 serverAddress = "franekdd-streamlittest-streamlit-app-6b1hv5.streamlit.app"
