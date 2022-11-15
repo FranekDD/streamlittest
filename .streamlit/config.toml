@@ -1,6 +1,9 @@
 [server]
 enableCORS = false
 
+[browser]
+serverAddress = "franekdd-streamlittest-streamlit-app-6b1hv5.streamlit.app"
+
 [theme]
 primaryColor = "#E694FF"
 backgroundColor = "#00172B"
